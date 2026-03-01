@@ -1,5 +1,9 @@
 # AI-Driven Business Innovation: Strategic Implementation Framework
 
+<!-- BADGES:START -->
+[![ai](https://img.shields.io/badge/-ai-ff6f00?style=flat-square)](https://github.com/topics/ai) [![business-innovation](https://img.shields.io/badge/-business--innovation-blue?style=flat-square)](https://github.com/topics/business-innovation) [![data-analytics](https://img.shields.io/badge/-data--analytics-blue?style=flat-square)](https://github.com/topics/data-analytics) [![ethical-ai](https://img.shields.io/badge/-ethical--ai-blue?style=flat-square)](https://github.com/topics/ethical-ai) [![industry-trends](https://img.shields.io/badge/-industry--trends-blue?style=flat-square)](https://github.com/topics/industry-trends) [![machine-learning](https://img.shields.io/badge/-machine--learning-ff6f00?style=flat-square)](https://github.com/topics/machine-learning) [![presentation](https://img.shields.io/badge/-presentation-9c27b0?style=flat-square)](https://github.com/topics/presentation) [![quarto](https://img.shields.io/badge/-quarto-blue?style=flat-square)](https://github.com/topics/quarto) [![business-frameworks](https://img.shields.io/badge/-business--frameworks-blue?style=flat-square)](https://github.com/topics/business-frameworks) [![strategic-implementation](https://img.shields.io/badge/-strategic--implementation-blue?style=flat-square)](https://github.com/topics/strategic-implementation)
+<!-- BADGES:END -->
+
 This repository contains the presentation materials and companion resources for the "AI-Driven Business Innovation" masterclass by Dr. Michael Borck, Curtin Business School.
 
 📅 Last Updated: May 2025
